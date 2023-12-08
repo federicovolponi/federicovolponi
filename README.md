@@ -19,7 +19,7 @@ Hi there! I'm Federico and if you want to know something about me keep reading�
 Regarding technical stuff...🧑🏻‍💻
 - 🎓 I'm currently a telecommunication engineering student at Politecnico di Torino 
 - 💻 I'm interested in ML & Data science, but Computer engineering more in general
-- I'm lately working on mathematical programming (stay tuned something cool is going to come soon)👀
+- 🧮 I'm lately working on mathematical programming (stay tuned something cool is going to come soon)👀
 - 🐧 I like using the command line, indeed my favourite OS is Linux
 
 More personal info...💁🏻

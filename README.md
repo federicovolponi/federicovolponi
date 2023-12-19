@@ -23,7 +23,7 @@ Regarding technical stuff...🧑🏻‍💻
 - 🐧 I like using the command line, indeed my favourite OS is Linux
 
 More personal info...💁🏻
-- ⛷️ I'm love skiing and I work as a ski instructor
+- ⛷️ I love skiing and I work as a ski instructor
 - 🧗🏻 In the last period I started climbing
 - 🍳 I'm Italian and I enjoy cooking
 

@@ -28,8 +28,10 @@ More personal info...💁🏻
 - 🍳 I'm Italian and I enjoy cooking
 
 If you want to reach out...
-<a href="https://www.instagram.com/federicovolponi/">
-
+</a>
+  
+   <a href="https://www.instagram.com/federicovolponi/">
+  
   <img align="left" alt="Federico's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
 
 </a>  

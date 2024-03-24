@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 Hi there! I'm Federico and if you want to know something about me keep reading📖
 
 Regarding technical stuff...🧑🏻‍💻
-- 🎓 I'm currently a telecommunication engineering student at Politecnico di Torino 
-- 💻 I'm interested in ML & Data science, but Computer engineering more in general
-- 🧮 I'm lately working on mathematical programming (stay tuned something cool is going to come soon)👀
-- 🐧 I like using the command line, indeed my favourite OS is Linux
+- 🎓 I'm currently working on my Master's Thesis on LLM in [Argotec](https://www.argotecgroup.com/) 
+- 💻 I'm interested in Machine learning and Data science.
+- 🧮 I'm lately working on a research project about Operational Research (stay tuned something cool is going to come soon)👀
+- 🐧 Trying to rice my [Hyprland](https://hyprland.org/) setup (dotfiles coming soon...)
 
 More personal info...💁🏻
 - ⛷️ I love skiing and I work as a ski instructor
 - 🧗🏻 In the last period I started climbing
-- 🍳 I'm Italian and I enjoy cooking
 
 If you want to reach out...
 </a>

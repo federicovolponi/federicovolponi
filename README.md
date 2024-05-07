@@ -40,9 +40,3 @@ If you want to reach out...
   <img align="left" alt="Federico's linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 
 </a>
-
-   <a href="mailto:federicovolponi99@gmail.com">
-
-  <img align="left" alt="Federico's Email Address" width="40px" src="https://www.pngkit.com/png/full/84-841048_envelop-email-icon-email-icon-png-red.png" />
-
-</a>

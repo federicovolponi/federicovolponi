@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 Hi there! I'm Federico and if you want to know something about me keep reading📖
 
 Regarding technical stuff...🧑🏻‍💻
-- 🎓 I'm currently working on my Master's Thesis on LLM in [Argotec](https://www.argotecgroup.com/) 
+- 🎓 I'm a graduate of Telecommunications Engineering at Politecnico di Torino.
 - 💻 I'm interested in Machine learning and Software Engineering.
-- 🧮 I've worked on a research project about Operational Research that is currently under submission. In the meantime you can find the code [here](https://github.com/MRVSmartNetworks/container_loading_heuristics).
+- 🧮 I've worked on a research project about Operations Research that is currently under submission. In the meantime, you can find the code [here](https://github.com/MRVSmartNetworks/container_loading_heuristics).
 - 🐧 Trying to rice my [Hyprland](https://hyprland.org/) setup (dotfiles coming soon...)
 
 More personal info...💁🏻

@@ -14,17 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there! I'm Federico and if you want to know something about me keep reading📖
+Hi there! I'm Federico, and if you want to know something about me, keep reading📖
 
 Regarding technical stuff...🧑🏻‍💻
-- 🎓 I'm a graduate of Telecommunications Engineering at Politecnico di Torino.
-- 💻 I'm interested in Machine learning and Software Engineering.
-- 🧮 I've worked on a research project about Operations Research that is currently under submission. In the meantime, you can find the code [here](https://github.com/MRVSmartNetworks/container_loading_heuristics).
-- 🐧 Trying to rice my [Hyprland](https://hyprland.org/) setup (dotfiles coming soon...)
-
-More personal info...💁🏻
-- ⛷️ I love skiing and I work as a ski instructor
-- 🧗🏻 In the last period I started climbing
+- 💻 I'm currently working as a backend software engineer at Concept Engineering
+- 🎓 I'm a graduate of Computer Engineering at Politecnico di Torino
+- 🧮 I've contributed to a paper about Operations Research that is currently under review. You can find the code [here](https://github.com/MRVSmartNetworks/container_loading_heuristics)
+- 🐧 In love with the penguin and currently in the rabbit hole of [Hyprland](https://hyprland.org/) and Neovim customization (dotfiles coming soon...)
 
 If you want to reach out...
 </a>

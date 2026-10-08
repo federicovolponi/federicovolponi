@@ -18,4 +18,4 @@ Hi there! 👋 I'm Federico. If you'd like to know a little more about me, keep 
 - 💻 Currently working on trading systems at Fineco
 - 🎓 Computer Engineering graduate from Politecnico di Torino
 - ⚙️ Interested in backend engineering, systems programming & homelabbing
-- 🏔️ Happiest in the mountains — skiing, hiking, or rock climbing
+- 🏔️ Happiest in the mountains either skiing, hiking, or rock climbing
